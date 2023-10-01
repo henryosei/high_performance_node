@@ -1,5 +1,4 @@
-# AdvancedNodeStarter
-Starting project for a course on Advanced Node @ Udemy
+# Node High Performance
 
 ### Setup
 
